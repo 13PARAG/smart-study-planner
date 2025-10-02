@@ -133,33 +133,6 @@ Smart Study Planner is a modern, responsive web application that addresses the c
    - Use priority levels to organize workload
    - Set up reminders for important deadlines
 
-## 📸 Screenshots / Demo
-
-### Live Demo
-🔗 **[View Live Demo](https://your-demo-link.com)**
-
-### Screenshots
-
-#### Dashboard View
-![Dashboard Screenshot](./screenshots/dashboard.png)
-*Clean dashboard showing today's tasks, progress statistics, and upcoming deadlines*
-
-#### Task Management
-![Task Creation Modal](./screenshots/task-modal.png)
-*Intuitive task creation form with all necessary fields and validation*
-
-#### List View with Filtering
-![List View Screenshot](./screenshots/list-view.png)
-*Comprehensive task list with advanced filtering and search capabilities*
-
-#### Dark Mode
-![Dark Mode Screenshot](./screenshots/dark-mode.png)
-*Elegant dark theme for comfortable studying during evening hours*
-
-#### Mobile Responsive
-![Mobile Screenshot](./screenshots/mobile-view.png)
-*Fully responsive design optimized for mobile devices*
-
 ### Key Features Demo
 - ✅ Real-time task creation and editing
 - ✅ Visual progress tracking with animations
@@ -222,37 +195,11 @@ Found a bug or have a suggestion? Please create an issue with:
 - Screenshots or screen recordings if applicable
 - Browser and device information
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-- ✅ Commercial use allowed
-- ✅ Modification allowed  
-- ✅ Distribution allowed
-- ✅ Private use allowed
-- ❌ No liability or warranty provided
-
-## 📬 Contact Information
-
-### Developer
-**[Your Name]**
-- 📧 **Email**: your.email@example.com
-- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐱 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
 ### Project Links
-- 🔗 **Live Demo**: [smart-study-planner-demo.com](https://smart-study-planner-demo.com)
-- 📂 **Repository**: [github.com/yourusername/smart-study-planner](https://github.com/yourusername/smart-study-planner)
-- 📋 **Issues**: [Report bugs and request features](https://github.com/yourusername/smart-study-planner/issues)
-
----
+- 🔗 **Live Demo**:(https://13parag.github.io/smart-study-planner/)
+- 📂 **Repository**:(https://github.com/13PARAG/smart-study-planner)
 
 ### Acknowledgments
-
-- Thanks to all contributors who helped improve this project
 - Inspired by the need for better student productivity tools
 - Built with modern web standards and accessibility in mind
 
